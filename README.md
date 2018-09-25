@@ -1,3 +1,6 @@
+title: Julia's homepage
+description: julia's public projects
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/juliad10/juliad.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
